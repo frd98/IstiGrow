@@ -134,7 +134,7 @@ export default function Home() {
               <div className={styles.logoIcon}>
                 <img src="/icons/IstiGrowLogo.png" alt="IstiGrow logo" style={{ width: '100%', height: '100%', objectFit: 'contain', borderRadius: '12px' }} />
               </div>
-              <h1 className={styles.logoText}>Istigrow</h1>
+              <h1 className={styles.logoText}>IstiGrow</h1>
             </div>
 
             <p className={styles.arabicTagline} dir="rtl">ٱسْتِقَامَة</p>
@@ -187,7 +187,7 @@ export default function Home() {
               ←
             </button>
             <div className={styles.headerTitle}>
-              <span className={styles.headerLogo}>Istigrow</span>
+              <span className={styles.headerLogo}>IstiGrow</span>
               <span className={styles.headerSub}>Daily Istiqomah</span>
             </div>
             <div className={styles.headerDate}>
