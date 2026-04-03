@@ -132,7 +132,7 @@ export default function Home() {
             {/* Logo */}
             <div className={styles.logoWrap}>
               <div className={styles.logoIcon}>
-                <img src="/icons/IstiGrowLogo.png" alt="IstiGrow logo" style={{ width: '64px', height: '64px', borderRadius: '12px' }} />
+                <img src="/icons/IstiGrowLogo.png" alt="IstiGrow logo" style={{ width: '100%', height: '100%', objectFit: 'contain', borderRadius: '12px' }} />
               </div>
               <h1 className={styles.logoText}>Istigrow</h1>
             </div>
