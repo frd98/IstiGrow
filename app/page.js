@@ -132,7 +132,7 @@ export default function Home() {
             {/* Logo */}
             <div className={styles.logoWrap}>
               <div className={styles.logoIcon}>
-                <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                <img src="/icons/IstiGrowLogo.png" alt="IstiGrow logo" />
                   <polygon points="32,4 37,22 55,17 42,30 55,43 37,38 32,56 27,38 9,43 22,30 9,17 27,22"
                     fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinejoin="round"/>
                   <circle cx="32" cy="30" r="6" fill="currentColor" opacity="0.6"/>
